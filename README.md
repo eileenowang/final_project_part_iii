@@ -17,7 +17,9 @@ To help my target persona reach their goal of finding and instilling happiness t
 
 # Part III - Work done so far 
 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+A few paragraphs that summarize the work you've done so far. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
-Initially in part I, I started from a big-picture perspective - looking at what influences happiness at a global level through the Happiness Report 2019. In order to help me focus on which of the 6 main factors matter, I created a map that visually showed the main key driver of happiness for many nations.  
+Initially in Part I, I started with a big-picture perspective - looking at what influences happiness at a global level through the Happiness Report 2019. I created an interactive map that is designed to ignite curiousity in my target persona to learn about happiness. When I showed this to a friend for feedback, he said "I'm not sure I'm learning anything about happiness from this map, other than Denmark is the most happy nation. And I'm not from Denmark, so..." This is when I decided I needed a second map, to help my target persona focus on the main factor mattered the most for each nation. It was a productive design decision, because it showed that social support is by far the most common driving factor of happiness for many nations. From my classmates, I also learned that now I have identified social support as an important factor, it was an opportunity to introduce a second data set to dig deeper into what social support encompasses. 
+
+
 
