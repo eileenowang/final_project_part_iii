@@ -21,6 +21,8 @@ With my 2nd data set and in Part II, I focused on tying together my story and id
 
 # Link to my Shorthand / Final data story
 
+https://carnegiemellon.shorthandstories.com/helping-the-elderly-find-happiness/index.html
+
 # References / Links
 1st data source: [World Happiness 2019 Report](https://www.kaggle.com/unsdsn/world-happiness#2019.csv)
 
