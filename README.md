@@ -17,6 +17,8 @@ Initially in Part I, I started with a big-picture perspective - looking at what 
 
 With my 2nd data set and in Part II, I focused on tying together my story and identifying data visualization opportunities that would be impactful. After discussing with my peers during the 2nd round of feedback in Storytelling with data class, I decided that a infographic, calling out the most important data point from the source (25% of variability in happiness is explained by 2 kinds of support- informational and emotional support) would be the most effective design decision for this 2nd dataset. Initially I was thinking of creating a chart that compared standartized coefficients and p-values to compare the different kinds of support. My classmates gave me a feedback that this chart prioritizes metrics that may not be intuitive to understand for a general audience. And therefore a simple infographic would make the most sense here. 
 
+Lastly, in order to strengthen the tie between the data I visualize and the story I'm trying to tell, I thought it was really important for me to first establish why we should care about elderly happiness. Beyond the elderly people we personally know, the world is also aging rapidly. This led me to find data points on what the status quo is (9% of the world is elderly in 2019) vs. the future (16% of the world in 2050 will be elderly). I created 2 pie charts and infographics to illustrate this point. 
+
 # Link to my Shorthand / Final data story
 
 https://carnegiemellon.shorthandstories.com/helping-the-elderly-find-happiness/index.html
