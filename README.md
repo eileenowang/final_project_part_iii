@@ -1,5 +1,7 @@
 # Project Overview
 
+The story I am trying to tell is in 3 phases: 1) Why we should care about elderly happiness, 2) Exploring what contributes to happiness, and finally 3) How can we help the elderly we know pursue happiness. 
+
 Click here for [Part I: Project outline](https://eileenowang.github.io/final_project_eileenwang/)
 
 Click here for [Part II: High level summary of project](https://eileenowang.github.io/final_project_part_ii/)
