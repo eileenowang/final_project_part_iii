@@ -23,7 +23,7 @@ Lastly, in order to strengthen the tie between the data I visualize and the stor
 
 # Link to my Shorthand / Final data story
 
-https://carnegiemellon.shorthandstories.com/helping-the-elderly-find-happiness/index.html
+[Click here for Final Data Story](https://carnegiemellon.shorthandstories.com/helping-the-elderly-find-happiness/index.html)
 
 # References / Links
 1st data source: [World Happiness 2019 Report](https://www.kaggle.com/unsdsn/world-happiness#2019.csv)
