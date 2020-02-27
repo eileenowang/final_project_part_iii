@@ -37,3 +37,5 @@ Lastly, in order to strengthen the tie between the data I visualize and the stor
 Photos in Shorthand story obtained from [Pexel](https://www.pexels.com/)
 
 Data story created in [Shorthand](https://shorthand.com/)
+
+Return to my [main portfolio page](https://eileenowang.github.io/data-visualization/)
